@@ -1,22 +1,23 @@
-# Hey, I'm a Developer! 👋
+# HAI, I AM SlLLYCAT :D
 
-💻 Informatics student  
-🚀 Learning by building things from scratch
+## About me
+I am an IT-Student
+I love doing things from scratch :D
 
-## 🛠️ Technologies
+## Technologies
 
 - **Languages:** Java, Python, HTML, CSS, Javascript
 - **Interests:** Algorithms, neural networks, 3D rendering, game development
 - **Currently learning:** Transformer(ai), Z-Filter, and more
 
-## 🚧 Projects
+## Projects
 
-- 🧠 Neural networks built from scratch
-- 🎮 Games both single and multiplayer
-- 🌍 Algorythmen such as Perlin noise
-- 🎨 A 3D renderer
+-  Neural networks built from scratch
+-  Games both single and multiplayer
+-  Algorythmen such as Perlin noise
+-  A 3D renderer
 
-## 📈 What I'm working on right now
+## What I'm working on right now
 - 3D renderer (java) Z-Filter
 - Transformer
 - Perlin noise in Java
